@@ -9,7 +9,7 @@ public class Client extends company {
 	}
 	
 	private void cliName() {
-		System.out.println("Client Name : SK");
+		System.out.println("Client Name : Mr.SK");
 	}
 	
 	public static void main(String[] args) {
